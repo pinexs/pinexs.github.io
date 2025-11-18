@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Traveler Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Traveler Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2025 23:27:40 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I went to Romania</title>
+      <link>http://localhost:1313/post/</link>
+      <pubDate>Tue, 18 Nov 2025 23:27:40 +0300</pubDate>
+      <guid>http://localhost:1313/post/</guid>
+      <description>&lt;h1 id=&#34;i-went-to-romania&#34;&gt;I went to Romania&lt;/h1&gt;&#xA;&lt;p&gt;It was a great experience&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
