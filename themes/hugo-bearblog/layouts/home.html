@@ -10,7 +10,7 @@
 
     <ul class="blog-posts">
       {{ range where .Site.RegularPages "Section" "blog" }}
-        <li>
+      <li>
           <span>
             <i>
               <time datetime='{{ .Date.Format "2006-01-02" }}'>
