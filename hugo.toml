@@ -4,5 +4,5 @@ title = 'Serhan Travels'
 theme = 'ananke'
 
 [[params.ananke_socials]]
-name = "youtube"
-url = "https://youtube.com/serhanwestern"
+name = 'youtube'
+url = 'https://youtube.com/serhanwestern'
