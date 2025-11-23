@@ -2,6 +2,7 @@
 date = '2025-11-23T00:17:20+03:00'
 draft = false
 title = 'An Erasmus Journey From Antalya To The Heart of Salento: Poggiardo, via Rome'
+featured_image = ''
 +++
 
 Every **Erasmus+** project signifies a new adventure, a new learning curve, and a new story. For me, this story is my **second** **Erasmus experience,** one that started in Antalya and found its way to Poggiardo, a town nestled deep in the "heel" of Italy's boot. This time, I have the distinct honor of undertaking this journey as the group leader for a fantastic team. In this blog post, I want to share not just the details of our project, but the unforgettable memories captured between the chaotic beauty of Italy's capital and the quiet, historic streets of the Salento region.
