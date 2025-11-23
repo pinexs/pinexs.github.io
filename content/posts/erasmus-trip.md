@@ -9,13 +9,14 @@ Every **Erasmus+** project signifies a new adventure, a new learning curve, and 
 
 # Part 1: A One-Day Marathon of Chaos and Flavour in Rome
 
-Our adventure officially kicked off when our team, hailing from different corners of Turkey, convened in Istanbul. As our group of five took off from Istanbul.
+Our adventure officially started when our team, coming from different corners of Turkey, met in Istanbul. And then, our group of five people took off from Istanbul.
 
-We were buzzing with anticipation for what lay ahead. Our first stop was not our final destination, but a layover that is a destination in its own right: **Rome.**
-We landed in Rome with only one day to spare, and we were determined to make the most ofit. There was just one challenge: we would be exploring the city with all our luggage in tow. Rather than slowing us down, this thrust us into what felt like an advanced "Roman tourist simulation."
+We were extremely curious about for what lay ahead. Our first stop was a layover that is a destination in its own right: **Rome.**
+We landed in Rome with only one day to spend, and we were determined to make the most of it. There was just one challenge: as we explored the city, we also had to carry our luggage with us. Rather than slowing us down, this encouraged us to explore Rome more, despite the heavy luggage.
+
 And yes, I must confirm the famous stereotype: Italian pizza truly lives up to the hype. It might even exceed it. **I genuinely ate the best pizzas of my life that day in Rome.** The thin crust, the fresh ingredients, and that indescribable flavour made me think, "This is where pizza was perfected."
 
-Even while dragging our suitcases, it was impossible not to be captivated by the city's magic. Rome is, in every sense, an open-air museum that demands to be explored on foot. Every corner reveals thousands of years of history. In our short time, we managed to see:
+Even while dragging our luggage, it was impossible not to be amazed by the city's magic. Rome is, in every sense, an open-air museum that must be expored on foot, to understand its immense beauty. Every corner reveals thousands of years of history. In our short time, we managed to see:
 
 ## Teatro dell’Opera
 
@@ -25,7 +26,7 @@ Even while dragging our suitcases, it was impossible not to be captivated by the
 
 ## The Trevi Fountain (Fontana di Trevi)
 
-- The Trevi Fountain (Fontana di Trevi): An iconic moment, tossing a coin over our shoulder to ensure our return, even amidst the massive crowds.
+- The Trevi Fountain (Fontana di Trevi): An iconic moment, tossing a coin over our shoulder to ensure our return, even during the massive crowds.
 
 ![photo_desc](https://i.ibb.co/6cs2qZTj/88e2df96-9d58-4c7e-bd44-dda2e97ed8a7.jpg)
 
@@ -41,11 +42,11 @@ Even just seeing it from the outside, standing before that colossal structure, i
 
 ![photo_desc](https://i.ibb.co/XrXrFfzx/16bff002-6a75-4362-990b-e649310e98f8.jpg)
 
-One day is nothing for Rome. It was tiring, but also comical, to navigate with luggage. In this city where every tourist seems to be rolling a suitcase over the cobblestones, we left so many streets unwalked, so many historical sites undiscovered...
+One day is nothing for Rome. It was tiring, but also comical, to navigate with luggage. In this city where every tourist seems to be rolling their luggage over the cobblestones, we left so many streets unwalked, so many historical sites undiscovered...
 
 ## Part 2: The Long Journey South to the Serenity of Salento: Poggiardo
 
-After our 24 hour whirlwind tour of Rome, we began the long trek to our true destination. First, we took a long bus journey south to **Lecce,** a city renowned for its Baroque architecture and often called the "Florence of the South." From there, a regional train took us to our project's home base: the small, charming Italian town of Poggiardo.
+After our 24 hour whirlwind tour of Rome, we began the long walk to our true destination. First, we took a long bus journey south to **Lecce,** a city renowned for its Baroque architecture and often called the "Florence of the South." From there, a regional train took us to our project's home base: the small, charming Italian town of Poggiardo.
 Upon arrival, we were met by **our organizer, Valeria,**
 
 ![photo_desc](https://i.ibb.co/0xFYNdL/931c6a75-31ac-4550-84dc-3c90e8025880.jpg)
@@ -53,7 +54,7 @@ Upon arrival, we were met by **our organizer, Valeria,**
 
 Whose energy immediately made us feel welcome. She quickly briefed us on the project, our tasks, and my responsibilities as the group leader.
 
-Poggiardo is a historic town in the heart of the Puglia region, located on the Salento peninsula. Unlike the ornate Baroque style of Lecce, it is quieter, more modest, but possesses an equally deep history. This town, built upon ancient Messapian (pre-Roman) settlements, is a place where time seems to flow more slowly, with its narrow streets, stone houses, and small churches appearing at every turn
+Poggiardo is a historic town in the heart of the Puglia region, located on the Salento peninsula. Unlike the Baroque style of Lecce, it is quieter, more modest, but has an equally deep history. This town, built upon ancient Messapian (pre-Roman) settlements, is a place where time seems to flow more slowly, with its narrow streets, stone houses, and small churches appearing at every turn.
 
 # Part 3: Italian Hospitality and the Sweetness of Being the “Foreigner”
 
