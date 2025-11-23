@@ -20,22 +20,26 @@ Even while dragging our suitcases, it was impossible not to be captivated by the
 ## Teatro dell’Opera
 
 - Which greeted us with its magnificent architecture.
-  1
+
+![photo_desc](https://i.ibb.co/9kp1KdFM/27f530f4-4a64-4229-841b-2e99c254ec6d.jpg)
 
 ## The Trevi Fountain (Fontana di Trevi)
 
 - The Trevi Fountain (Fontana di Trevi): An iconic moment, tossing a coin over our shoulder to ensure our return, even amidst the massive crowds.
-  2
+
+![photo_desc](https://i.ibb.co/6cs2qZTj/88e2df96-9d58-4c7e-bd44-dda2e97ed8a7.jpg)
 
 ## The Pantheon
 
 A true architectural marvel that takes your breath away with its massive dome and the famous inscription on its portico reading **"M. AGRIPPA L. F. COS. TERTIVM FECIT."**
-3
+
+![photo_desc](https://i.ibb.co/rfvfkP14/ecc55319-8aeb-410a-91b1-1d5f8535bdd1.jpg)
 
 ## The Colosseum
 
 Even just seeing it from the outside, standing before that colossal structure, it was impossible not to imagine the roar of the gladiators.
-4
+
+![photo_desc](https://i.ibb.co/XrXrFfzx/16bff002-6a75-4362-990b-e649310e98f8.jpg)
 
 One day is nothing for Rome. It was tiring, but also comical, to navigate with luggage. In this city where every tourist seems to be rolling a suitcase over the cobblestones, we left so many streets unwalked, so many historical sites undiscovered...
 
@@ -43,7 +47,9 @@ One day is nothing for Rome. It was tiring, but also comical, to navigate with l
 
 After our 24 hour whirlwind tour of Rome, we began the long trek to our true destination. First, we took a long bus journey south to **Lecce,** a city renowned for its Baroque architecture and often called the "Florence of the South." From there, a regional train took us to our project's home base: the small, charming Italian town of Poggiardo.
 Upon arrival, we were met by **our organizer, Valeria,**
-5 6
+
+![photo_desc](https://i.ibb.co/0xFYNdL/931c6a75-31ac-4550-84dc-3c90e8025880.jpg)
+![photo_desc](https://i.ibb.co/kRBz92p/bd64cf3e-404f-435d-996e-c8549b763f44.jpg)
 
 Whose energy immediately made us feel welcome. She quickly briefed us on the project, our tasks, and my responsibilities as the group leader.
 
