@@ -2,3 +2,6 @@ baseURL = 'https://pinexs.github.io/'
 languageCode = 'en-us'
 title = 'Serhan Travels'
 theme = 'ananke'
+
+[params]
+hero_image = "/images/bg.jpg"
